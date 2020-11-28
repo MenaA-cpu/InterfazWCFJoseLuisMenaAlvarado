@@ -1,0 +1,10 @@
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\bin\Debug\GUIWcfSergioJoseLuisMena.exe.config
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\bin\Debug\GUIWcfSergioJoseLuisMena.exe
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\bin\Debug\GUIWcfSergioJoseLuisMena.pdb
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\obj\Debug\GUIWcfSergioJoseLuisMena.csprojAssemblyReference.cache
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\obj\Debug\GUIWcfSergioJoseLuisMena.Form1.resources
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\obj\Debug\GUIWcfSergioJoseLuisMena.Properties.Resources.resources
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\obj\Debug\GUIWcfSergioJoseLuisMena.csproj.GenerateResource.cache
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\obj\Debug\GUIWcfSergioJoseLuisMena.csproj.CoreCompileInputs.cache
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\obj\Debug\GUIWcfSergioJoseLuisMena.exe
+C:\Users\saul\source\repos\JoseLuisMenaWcf\GUIWcfSergioJoseLuisMena\obj\Debug\GUIWcfSergioJoseLuisMena.pdb
